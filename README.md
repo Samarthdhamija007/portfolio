@@ -6,7 +6,7 @@
 
 > A modern, responsive personal portfolio website built for **Samarth Dhamija** — B.Tech IT student at MSIT, Delhi (Lateral Entry, 2nd Year).
 
-🌐 **Live Site:** [samarthdhamija007.github.io/portfolio](https://samarthdhamija007.github.io/portfolio)
+🌐 **Live Site:** [[samarthdhamija007.github.io/portfolio](https://samarthdhamija007.github.io/portfolio)](https://portfolio-samarth-f26c.vercel.app/)
 
 ---
 
